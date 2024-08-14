@@ -1,5 +1,6 @@
 # 자바 메모리 구조와 static
 
+
 ![image](https://github.com/user-attachments/assets/69d10c9b-fb08-4858-a6ff-3544ad7d07bb)
 ![image](https://github.com/user-attachments/assets/f83053c8-30ba-4e33-b553-b3ae7c8faf96)
 
