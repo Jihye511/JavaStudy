@@ -16,6 +16,7 @@
 <br/><br/>
 # 스택과 큐 자료 구조
 
+
 ## 스택 구조
 
 ![image](https://github.com/user-attachments/assets/f7d4db4e-d818-48cf-b4c6-1521be99d1f5)
